@@ -24,9 +24,9 @@ class Array {
 
 const list = new Array([1, 2, 3, 4, 5]);
 
-console.log(list.remove());
-console.log(list.remove());
-console.log(list.remove());
-console.log(list.remove());
-console.log(list.remove());
-console.log(list.remove());
+console.log(list.getNumber());
+console.log(list.getNumber());
+console.log(list.getNumber());
+console.log(list.getNumber());
+console.log(list.getNumber());
+console.log(list.getNumber());
