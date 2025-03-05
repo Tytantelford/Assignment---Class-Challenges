@@ -6,7 +6,7 @@ class Array {
     this.removeFromFront = true;
   }
 
-  remove() {
+  getNumber() {
     if (this.start > this.end) return "";
 
     let currentNumber;
